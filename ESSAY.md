@@ -14,7 +14,7 @@ Short, vague, or generic answers will not receive full credit.
 
 Whenever possible, refer to specific modules, functions, tests, failures, or design decisions from your own program.
 
-Each question is worth **2.5 points**, for a total of **10 points**.
+Each question is worth **2 points**, for a total of **10 points**.
 
 ---
 
@@ -113,5 +113,5 @@ Explain:
 
 Your answer should show that you used AI as a development partner while retaining responsibility for the final program.
 
-##  5. Integration and Architecture
+## 5. Integration and Architecture
 Describe one place where two parts of your program had to agree about data, state, or an interface. Explain what could have gone wrong if those assumptions did not match, and how you verified the integration worked correctly.
